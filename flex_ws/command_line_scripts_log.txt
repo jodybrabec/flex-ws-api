@@ -1,0 +1,1419 @@
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-02 00:37:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-02 00:37:10 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-02 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:14038307X, PER_UID:11825402)
+T2 EDIT (2): setRFID(RFID_num_X:19105623X, PER_UID:24966529)
+T2 EDIT (3): setRFID(RFID_num_X:13608316X, PER_UID:24969753)
+T2 EDIT (4): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (5): setRFID(RFID_num_X:23306074X, PER_UID:24989981)
+T2 EDIT (6): setRFID(RFID_num_X:14034863X, PER_UID:24992614)
+T2 EDIT (7): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (8): setRFID(RFID_num_X:21105055X, PER_UID:11814809)
+T2 EDIT (9): setRFID(RFID_num_X:25521003X, PER_UID:11819661)
+T2 EDIT (10): setRFID(RFID_num_X:13610596X, PER_UID:24966802)
+T2 EDIT (11): setRFID(RFID_num_X:14034863X, PER_UID:11820280)
+T2 EDIT (12): setRFID(RFID_num_X:19107290X, PER_UID:24977756)
+T2 EDIT (13): setRFID(RFID_num_X:21342196X, PER_UID:24964967)
+T2 EDIT (14): setRFID(RFID_num_X:13608316X, PER_UID:11816045)
+T2 EDIT (15): setRFID(RFID_num_X:25521124X, PER_UID:11822269)
+T2 EDIT (16): setRFID(RFID_num_X:25520466X, PER_UID:11819546)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-02 01:07:44 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-02 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202529987X, PER_UID:11814809)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202090253X, PER_UID:11819546)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203063226X, PER_UID:24994060)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202006002X, PER_UID:11820280)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202955299X, PER_UID:11822269)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090203321962X, PER_UID:11819661)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202522685X, PER_UID:11816045)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-02 02:07:32 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-02 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-02 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-03 00:37:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-03 00:37:03 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-03 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-03 01:08:03 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-03 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-03 02:07:07 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-03 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-03 03:07:09 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-04 00:37:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-04 00:37:04 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-04 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-04 01:07:53 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-04 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-04 02:07:11 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-04 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-04 03:07:10 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-05 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-05 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-05 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-05 01:07:50 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-05 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-05 02:07:07 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-05 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-05 03:07:06 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-06 00:37:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-06 00:37:08 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-06 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:13610380X, PER_UID:11817981)
+T2 EDIT (2): setRFID(RFID_num_X:19107499X, PER_UID:11814381)
+T2 EDIT (3): setRFID(RFID_num_X:21107205X, PER_UID:11813793)
+T2 EDIT (4): setRFID(RFID_num_X:13608108X, PER_UID:11817979)
+T2 EDIT (5): setRFID(RFID_num_X:13609771X, PER_UID:11817980)
+T2 EDIT (6): setRFID(RFID_num_X:21107471X, PER_UID:11817726)
+T2 EDIT (7): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (8): setRFID(RFID_num_X:21342196X, PER_UID:24964967)
+T2 EDIT (9): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-06 01:07:30 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-06 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203302475X, PER_UID:11817726)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202820345X, PER_UID:11813793)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090201842191X, PER_UID:331076)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202557863X, PER_UID:11814381)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090203170146X, PER_UID:231361)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-06 02:07:19 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-06 03:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-06 03:07:11 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-07 00:37:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-07 00:37:03 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-07 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (2): setRFID(RFID_num_X:21104993X, PER_UID:11821958)
+T2 EDIT (3): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (4): setRFID(RFID_num_X:13609249X, PER_UID:11822315)
+T2 EDIT (5): setRFID(RFID_num_X:13611015X, PER_UID:24977738)
+T2 EDIT (6): setRFID(RFID_num_X:17703215X, PER_UID:24982019)
+T2 EDIT (7): setRFID(RFID_num_X:21106762X, PER_UID:11817983)
+T2 EDIT (8): setRFID(RFID_num_X:13610839X, PER_UID:24977737)
+T2 EDIT (9): setRFID(RFID_num_X:19105836X, PER_UID:11814752)
+T2 EDIT (10): setRFID(RFID_num_X:21106890X, PER_UID:11817324)
+T2 EDIT (11): setRFID(RFID_num_X:25520579X, PER_UID:11818648)
+T2 EDIT (12): setRFID(RFID_num_X:14034014X, PER_UID:11819457)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-07 01:13:03 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-07 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090203048946X, PER_UID:11818648)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202471933X, PER_UID:11814752)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202970272X, PER_UID:11821958)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202245055X, PER_UID:11828587)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090203015341X, PER_UID:11819457)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090203137673X, PER_UID:11817324)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202741236X, PER_UID:11822315)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-07 02:07:22 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-07 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-07 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-08 00:37:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-08 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-08 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:21106785X, PER_UID:11817984)
+T2 EDIT (2): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (3): setRFID(RFID_num_X:13609000X, PER_UID:24969863)
+T2 EDIT (4): setRFID(RFID_num_X:25520519X, PER_UID:11822094)
+T2 EDIT (5): setRFID(RFID_num_X:21106785X, PER_UID:24969872)
+T2 EDIT (6): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (7): setRFID(RFID_num_X:13608970X, PER_UID:24969964)
+T2 EDIT (8): setRFID(RFID_num_X:19104626X, PER_UID:11818509)
+T2 EDIT (9): setRFID(RFID_num_X:17703215X, PER_UID:23820233)
+T2 EDIT (10): setRFID(RFID_num_X:25520725X, PER_UID:11818696)
+T2 EDIT (11): setRFID(RFID_num_X:25520432X, PER_UID:11822058)
+T2 EDIT (12): setRFID(RFID_num_X:14035558X, PER_UID:11819889)
+T2 EDIT (13): setRFID(RFID_num_X:25520902X, PER_UID:11819386)
+T2 EDIT (14): setRFID(RFID_num_X:21106056X, PER_UID:11819716)
+T2 EDIT (15): setRFID(RFID_num_X:13608970X, PER_UID:11816646)
+T2 EDIT (16): setRFID(RFID_num_X:23305211X, PER_UID:11818807)
+T2 EDIT (17): setRFID(RFID_num_X:13611076X, PER_UID:11825378)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-08 01:15:33 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-08 02:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090201841052X, PER_UID:11822094)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202400932X, PER_UID:11818807)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090203001580X, PER_UID:11819386)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202342118X, PER_UID:11822058)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090201619946X, PER_UID:11819716)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202395041X, PER_UID:11818509)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090201660890X, PER_UID:11816646)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090203084891X, PER_UID:11818696)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202025473X, PER_UID:23820233)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090202972765X, PER_UID:11819889)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-08 02:07:34 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-08 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-08 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-09 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-09 00:37:08 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-09 01:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:25520500X, PER_UID:11814265)
+T2 EDIT (2): setRFID(RFID_num_X:14039129X, PER_UID:11817173)
+T2 EDIT (3): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (4): setRFID(RFID_num_X:13609047X, PER_UID:24989947)
+T2 EDIT (5): setRFID(RFID_num_X:13610655X, PER_UID:24966932)
+T2 EDIT (6): setRFID(RFID_num_X:14038006X, PER_UID:11814485)
+T2 EDIT (7): setRFID(RFID_num_X:19105015X, PER_UID:24966749)
+T2 EDIT (8): setRFID(RFID_num_X:17124608X, PER_UID:24988816)
+T2 EDIT (9): setRFID(RFID_num_X:13609676X, PER_UID:24966933)
+T2 EDIT (10): setRFID(RFID_num_X:12815753X, PER_UID:24966455)
+T2 EDIT (11): setRFID(RFID_num_X:13609549X, PER_UID:24969860)
+T2 EDIT (12): setRFID(RFID_num_X:13608595X, PER_UID:11814380)
+T2 EDIT (13): setRFID(RFID_num_X:12814960X, PER_UID:11816675)
+T2 EDIT (14): setRFID(RFID_num_X:13611212X, PER_UID:11817352)
+T2 EDIT (15): setRFID(RFID_num_X:14038098X, PER_UID:24977705)
+T2 EDIT (16): setRFID(RFID_num_X:19107388X, PER_UID:24979880)
+T2 EDIT (17): setRFID(RFID_num_X:19104278X, PER_UID:24965691)
+T2 EDIT (18): setRFID(RFID_num_X:23306973X, PER_UID:11818588)
+T2 EDIT (19): setRFID(RFID_num_X:25520346X, PER_UID:11818589)
+T2 EDIT (20): setRFID(RFID_num_X:21106741X, PER_UID:24979653)
+T2 EDIT (21): setRFID(RFID_num_X:19104269X, PER_UID:24966361)
+T2 EDIT (22): setRFID(RFID_num_X:23305211X, PER_UID:11818807)
+T2 EDIT (23): setRFID(RFID_num_X:23307958X, PER_UID:11823377)
+T2 EDIT (24): setRFID(RFID_num_X:23304239X, PER_UID:11823268)
+T2 EDIT (25): setRFID(RFID_num_X:13609047X, PER_UID:11824608)
+T2 EDIT (26): setRFID(RFID_num_X:13608761X, PER_UID:24979678)
+T2 EDIT (27): setRFID(RFID_num_X:17124540X, PER_UID:24988624)
+T2 EDIT (28): setRFID(RFID_num_X:19106873X, PER_UID:11813765)
+T2 EDIT (29): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (30): setRFID(RFID_num_X:23304919X, PER_UID:11824806)
+T2 EDIT (31): setRFID(RFID_num_X:21106805X, PER_UID:24979419)
+T2 EDIT (32): setRFID(RFID_num_X:17124232X, PER_UID:24988504)
+T2 EDIT (33): setRFID(RFID_num_X:13610449X, PER_UID:11815839)
+T2 EDIT (34): setRFID(RFID_num_X:13608125X, PER_UID:24969941)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-09 01:18:16 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-09 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090203105274X, PER_UID:11814265)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202507512X, PER_UID:11815839)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203273833X, PER_UID:11824608)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090203361174X, PER_UID:5964810)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202364005X, PER_UID:11814380)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202596895X, PER_UID:11813765)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090203098180X, PER_UID:11824806)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202867080X, PER_UID:11814485)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090202042650X, PER_UID:24965691)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090203277719X, PER_UID:11816675)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (13): setCatcardID(CatcardID_X:6017090202339007X, PER_UID:11823377)
+T2 EDIT (14): setCatcardID(CatcardID_X:6017090202743612X, PER_UID:339845)
+T2 EDIT (15): setCatcardID(CatcardID_X:6017090202336557X, PER_UID:11818589)
+T2 EDIT (16): setCatcardID(CatcardID_X:6017090202997960X, PER_UID:24994066)
+T2 EDIT (17): setCatcardID(CatcardID_X:6017090203191050X, PER_UID:11823268)
+T2 EDIT (18): setCatcardID(CatcardID_X:6017090201721122X, PER_UID:11817173)
+T2 EDIT (19): setCatcardID(CatcardID_X:6017090201280889X, PER_UID:24979419)
+T2 EDIT (20): setCatcardID(CatcardID_X:6017090203271647X, PER_UID:11817352)
+T2 EDIT (21): setCatcardID(CatcardID_X:6017090202837463X, PER_UID:11818588)
+T2 EDIT (22): setCatcardID(CatcardID_X:6017090202689682X, PER_UID:24979678)
+T2 EDIT (23): setCatcardID(CatcardID_X:6017090202443601X, PER_UID:24979653)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-09 02:07:58 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-09 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-09 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-10 00:37:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-10 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-10 01:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-10 01:08:11 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-10 02:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-10 02:07:12 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-10 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-10 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-11 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-11 00:37:08 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-11 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-11 01:08:02 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-11 02:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-11 02:07:08 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-11 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-11 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-12 00:37:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-12 00:37:04 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-12 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:21105417X, PER_UID:24979620)
+T2 EDIT (3): setRFID(RFID_num_X:21104172X, PER_UID:24979433)
+T2 EDIT (4): setRFID(RFID_num_X:14038042X, PER_UID:11814370)
+T2 EDIT (5): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (6): setRFID(RFID_num_X:25520337X, PER_UID:11822031)
+T2 EDIT (7): setRFID(RFID_num_X:21105199X, PER_UID:24979456)
+T2 EDIT (8): setRFID(RFID_num_X:21104514X, PER_UID:24979622)
+T2 EDIT (9): setRFID(RFID_num_X:12814847X, PER_UID:11822518)
+T2 EDIT (10): setRFID(RFID_num_X:12815781X, PER_UID:11817463)
+T2 EDIT (11): setRFID(RFID_num_X:13610596X, PER_UID:11814493)
+T2 EDIT (12): setRFID(RFID_num_X:21105105X, PER_UID:24979597)
+T2 EDIT (13): setRFID(RFID_num_X:13609420X, PER_UID:24979557)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-12 01:14:54 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-12 02:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090203332878X, PER_UID:24979433)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090203235568X, PER_UID:11814493)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090201909560X, PER_UID:11817463)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202445358X, PER_UID:11822518)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202629175X, PER_UID:11822031)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090200865508X, PER_UID:24979557)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202538400X, PER_UID:11820163)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090201899605X, PER_UID:24979622)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090001093441X, PER_UID:24979456)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202987730X, PER_UID:11814370)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (13): setCatcardID(CatcardID_X:6017090202771183X, PER_UID:11827279)
+T2 EDIT (14): setCatcardID(CatcardID_X:6017090201364022X, PER_UID:24979597)
+T2 EDIT (15): setCatcardID(CatcardID_X:6017090201793238X, PER_UID:24979620)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-12 02:15:21 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-12 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-12 03:07:10 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-13 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-13 00:37:08 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-13 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:14037885X, PER_UID:11822397)
+T2 EDIT (2): setRFID(RFID_num_X:19106738X, PER_UID:11813720)
+T2 EDIT (3): setRFID(RFID_num_X:23306628X, PER_UID:11820197)
+T2 EDIT (4): setRFID(RFID_num_X:21106634X, PER_UID:11821873)
+T2 EDIT (5): setRFID(RFID_num_X:25520424X, PER_UID:11822055)
+T2 EDIT (6): setRFID(RFID_num_X:19107264X, PER_UID:11825008)
+T2 EDIT (7): setRFID(RFID_num_X:19107023X, PER_UID:11818655)
+T2 EDIT (8): setRFID(RFID_num_X:13610241X, PER_UID:11818269)
+T2 EDIT (9): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (10): setRFID(RFID_num_X:14038601X, PER_UID:11820965)
+T2 EDIT (11): setRFID(RFID_num_X:19105217X, PER_UID:11814070)
+T2 EDIT (12): setRFID(RFID_num_X:21104328X, PER_UID:11818900)
+T2 EDIT (13): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (14): setRFID(RFID_num_X:25521788X, PER_UID:11820790)
+T2 EDIT (15): setRFID(RFID_num_X:25520983X, PER_UID:11824830)
+T2 EDIT (16): setRFID(RFID_num_X:14038173X, PER_UID:11826305)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-13 01:19:29 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-13 02:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202807953X, PER_UID:11826305)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202747134X, PER_UID:11813720)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202282025X, PER_UID:11814070)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202357629X, PER_UID:11818900)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090203243471X, PER_UID:11822397)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202783881X, PER_UID:11820965)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090201979571X, PER_UID:23827939)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090203146237X, PER_UID:11822055)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202139050X, PER_UID:11820197)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090202338892X, PER_UID:11818655)
+T2 EDIT (13): setCatcardID(CatcardID_X:6017090202593728X, PER_UID:11825008)
+T2 EDIT (14): setCatcardID(CatcardID_X:6017090203183107X, PER_UID:11820790)
+T2 EDIT (15): setCatcardID(CatcardID_X:6017090201435681X, PER_UID:11821873)
+T2 EDIT (16): setCatcardID(CatcardID_X:6017090201951950X, PER_UID:11818269)
+T2 EDIT (17): setCatcardID(CatcardID_X:6017090203290928X, PER_UID:11824830)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-13 02:07:50 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-13 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-13 03:07:10 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-14 00:37:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-14 00:37:04 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-14 01:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:23307088X, PER_UID:24990079)
+T2 EDIT (2): setRFID(RFID_num_X:13608325X, PER_UID:24992681)
+T2 EDIT (3): setRFID(RFID_num_X:25520139X, PER_UID:11815082)
+T2 EDIT (4): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (5): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (6): setRFID(RFID_num_X:19107004X, PER_UID:24990085)
+T2 EDIT (7): setRFID(RFID_num_X:14034199X, PER_UID:24992473)
+T2 EDIT (8): setRFID(RFID_num_X:13610837X, PER_UID:24970054)
+T2 EDIT (9): setRFID(RFID_num_X:14036281X, PER_UID:11822463)
+T2 EDIT (10): setRFID(RFID_num_X:21105199X, PER_UID:11822784)
+T2 EDIT (11): setRFID(RFID_num_X:21104493X, PER_UID:24969827)
+T2 EDIT (12): setRFID(RFID_num_X:19105783X, PER_UID:24977733)
+T2 EDIT (13): setRFID(RFID_num_X:23308052X, PER_UID:24966663)
+T2 EDIT (14): setRFID(RFID_num_X:21106422X, PER_UID:24969698)
+T2 EDIT (15): setRFID(RFID_num_X:21104697X, PER_UID:24992668)
+T2 EDIT (16): setRFID(RFID_num_X:12815783X, PER_UID:24992584)
+T2 EDIT (17): setRFID(RFID_num_X:13611156X, PER_UID:24969846)
+T2 EDIT (18): setRFID(RFID_num_X:14038372X, PER_UID:24969907)
+T2 EDIT (19): setRFID(RFID_num_X:21106283X, PER_UID:24970193)
+T2 EDIT (20): setRFID(RFID_num_X:25521265X, PER_UID:11818871)
+T2 EDIT (21): setRFID(RFID_num_X:14037127X, PER_UID:24990349)
+T2 EDIT (22): setRFID(RFID_num_X:23307088X, PER_UID:11824731)
+T2 EDIT (23): setRFID(RFID_num_X:12814552X, PER_UID:24977547)
+T2 EDIT (24): setRFID(RFID_num_X:12814623X, PER_UID:24977613)
+T2 EDIT (25): setRFID(RFID_num_X:12815208X, PER_UID:24992669)
+T2 EDIT (26): setRFID(RFID_num_X:19105153X, PER_UID:11825107)
+T2 EDIT (27): setRFID(RFID_num_X:14036223X, PER_UID:11825286)
+T2 EDIT (28): setRFID(RFID_num_X:14037112X, PER_UID:11819910)
+T2 EDIT (29): setRFID(RFID_num_X:23306316X, PER_UID:24992633)
+T2 EDIT (30): setRFID(RFID_num_X:21104122X, PER_UID:24970184)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-14 01:17:18 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-14 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202523766X, PER_UID:11822463)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203324966X, PER_UID:11818871)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202352661X, PER_UID:11815082)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202562236X, PER_UID:11824731)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090001093441X, PER_UID:11822784)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090203154918X, PER_UID:11825107)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090203325302X, PER_UID:11825286)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090202144639X, PER_UID:330985)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090203192538X, PER_UID:331054)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090203032759X, PER_UID:331023)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-14 02:07:37 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-14 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-14 03:07:05 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-15 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-15 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-15 01:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:19106648X, PER_UID:11820903)
+T2 EDIT (2): setRFID(RFID_num_X:13609481X, PER_UID:11818849)
+T2 EDIT (3): setRFID(RFID_num_X:13608074X, PER_UID:11822091)
+T2 EDIT (4): setRFID(RFID_num_X:23304433X, PER_UID:24989828)
+T2 EDIT (5): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (6): setRFID(RFID_num_X:19104282X, PER_UID:11825567)
+T2 EDIT (7): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (8): setRFID(RFID_num_X:14034051X, PER_UID:11820281)
+T2 EDIT (9): setRFID(RFID_num_X:23307088X, PER_UID:11824731)
+T2 EDIT (10): setRFID(RFID_num_X:23306603X, PER_UID:11820192)
+T2 EDIT (11): setRFID(RFID_num_X:23307914X, PER_UID:24989979)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-15 01:12:27 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-15 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090201902375X, PER_UID:11825567)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202613344X, PER_UID:11822091)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090203014955X, PER_UID:11820192)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202385927X, PER_UID:11820903)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090203081012X, PER_UID:11820281)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202036983X, PER_UID:331142)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-15 02:07:29 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-15 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-15 03:07:10 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-16 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-16 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-16 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:14037729X, PER_UID:11822128)
+T2 EDIT (2): setRFID(RFID_num_X:19107432X, PER_UID:11824544)
+T2 EDIT (3): setRFID(RFID_num_X:13608851X, PER_UID:11819865)
+T2 EDIT (4): setRFID(RFID_num_X:25520147X, PER_UID:11819395)
+T2 EDIT (5): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (6): setRFID(RFID_num_X:25520026X, PER_UID:11822282)
+T2 EDIT (7): setRFID(RFID_num_X:14036672X, PER_UID:11819666)
+T2 EDIT (8): setRFID(RFID_num_X:21105106X, PER_UID:11817560)
+T2 EDIT (9): setRFID(RFID_num_X:21106297X, PER_UID:11821731)
+T2 EDIT (10): setRFID(RFID_num_X:13608891X, PER_UID:11822263)
+T2 EDIT (11): setRFID(RFID_num_X:25521917X, PER_UID:11814973)
+T2 EDIT (12): setRFID(RFID_num_X:17702368X, PER_UID:11811646)
+T2 EDIT (13): setRFID(RFID_num_X:19106449X, PER_UID:11813882)
+T2 EDIT (14): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (15): setRFID(RFID_num_X:25521490X, PER_UID:11822918)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-16 01:20:12 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-16 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202670211X, PER_UID:11813882)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090203107718X, PER_UID:11819395)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203260350X, PER_UID:11811646)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202394713X, PER_UID:11822282)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090203250054X, PER_UID:11814973)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202945878X, PER_UID:11817560)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202803820X, PER_UID:11824544)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090202389507X, PER_UID:11822128)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202116090X, PER_UID:11822918)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090203165435X, PER_UID:11822263)
+T2 EDIT (13): setCatcardID(CatcardID_X:6017090001007052X, PER_UID:11821731)
+T2 EDIT (14): setCatcardID(CatcardID_X:6017090203144695X, PER_UID:24979759)
+T2 EDIT (15): setCatcardID(CatcardID_X:6017090203152060X, PER_UID:11819865)
+T2 EDIT (16): setCatcardID(CatcardID_X:6017090202330170X, PER_UID:11819666)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-16 02:07:52 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-16 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-16 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-17 00:37:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-17 00:37:04 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-17 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:21106297X, PER_UID:11821731)
+T2 EDIT (3): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-17 01:07:55 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-17 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-17 02:07:13 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-17 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-17 03:07:07 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-18 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-18 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-18 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-18 01:07:12 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-18 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-18 02:07:15 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-18 03:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-18 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-19 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-19 00:37:10 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-19 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:14036953X, PER_UID:11826395)
+T2 EDIT (2): setRFID(RFID_num_X:12815872X, PER_UID:24977620)
+T2 EDIT (3): setRFID(RFID_num_X:21107205X, PER_UID:24966405)
+T2 EDIT (4): setRFID(RFID_num_X:21104787X, PER_UID:24969811)
+T2 EDIT (5): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (6): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (7): setRFID(RFID_num_X:23307907X, PER_UID:11825010)
+T2 EDIT (8): setRFID(RFID_num_X:13610576X, PER_UID:24969893)
+T2 EDIT (9): setRFID(RFID_num_X:12814332X, PER_UID:11816606)
+T2 EDIT (10): setRFID(RFID_num_X:13608748X, PER_UID:24979580)
+T2 EDIT (11): setRFID(RFID_num_X:23307592X, PER_UID:24989941)
+T2 EDIT (12): setRFID(RFID_num_X:12815872X, PER_UID:11819205)
+T2 EDIT (13): setRFID(RFID_num_X:25521674X, PER_UID:11823005)
+T2 EDIT (14): setRFID(RFID_num_X:25522176X, PER_UID:11820967)
+T2 EDIT (15): setRFID(RFID_num_X:25520245X, PER_UID:11819426)
+T2 EDIT (16): setRFID(RFID_num_X:23307277X, PER_UID:24990102)
+T2 EDIT (17): setRFID(RFID_num_X:14034845X, PER_UID:24970029)
+T2 EDIT (18): setRFID(RFID_num_X:10100141X, PER_UID:24988865)
+T2 EDIT (19): setRFID(RFID_num_X:21105670X, PER_UID:11822317)
+T2 EDIT (20): setRFID(RFID_num_X:13610241X, PER_UID:24977825)
+T2 EDIT (21): setRFID(RFID_num_X:21104158X, PER_UID:24979430)
+T2 EDIT (22): setRFID(RFID_num_X:14038793X, PER_UID:24970008)
+T2 EDIT (23): setRFID(RFID_num_X:23304708X, PER_UID:24969959)
+T2 EDIT (24): setRFID(RFID_num_X:13608623X, PER_UID:24970032)
+T2 EDIT (25): setRFID(RFID_num_X:13611210X, PER_UID:24969798)
+T2 EDIT (26): setRFID(RFID_num_X:13611015X, PER_UID:24966885)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-19 01:19:56 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-19 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202122817X, PER_UID:11822317)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202342597X, PER_UID:11823005)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202982558X, PER_UID:11826395)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202108360X, PER_UID:11825010)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090201876561X, PER_UID:11816606)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202490321X, PER_UID:11819205)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090203389209X, PER_UID:24979430)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090203213854X, PER_UID:11819426)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202903950X, PER_UID:11820967)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090203303887X, PER_UID:24979580)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-19 02:07:40 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-19 03:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-19 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-20 00:37:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-20 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-20 01:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (2): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (3): setRFID(RFID_num_X:25521158X, PER_UID:11820510)
+T2 EDIT (4): setRFID(RFID_num_X:19105479X, PER_UID:11822183)
+T2 EDIT (5): setRFID(RFID_num_X:23305681X, PER_UID:11816758)
+T2 EDIT (6): setRFID(RFID_num_X:19106812X, PER_UID:11813967)
+T2 EDIT (7): setRFID(RFID_num_X:19106812X, PER_UID:24966683)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-20 01:12:19 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-20 02:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090203292676X, PER_UID:11823886)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202992102X, PER_UID:11816758)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202947031X, PER_UID:11822183)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202258843X, PER_UID:11813967)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202723325X, PER_UID:11820510)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-20 02:07:26 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-20 03:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-20 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-21 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-21 00:37:08 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-21 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (2): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (3): setRFID(RFID_num_X:13608470X, PER_UID:24970109)
+T2 EDIT (4): setRFID(RFID_num_X:12815760X, PER_UID:11817833)
+T2 EDIT (5): setRFID(RFID_num_X:25520312X, PER_UID:11816137)
+T2 EDIT (6): setRFID(RFID_num_X:14038262X, PER_UID:11820880)
+T2 EDIT (7): setRFID(RFID_num_X:13610349X, PER_UID:24969861)
+T2 EDIT (8): setRFID(RFID_num_X:13608335X, PER_UID:24977892)
+T2 EDIT (9): setRFID(RFID_num_X:13611011X, PER_UID:24970014)
+T2 EDIT (10): setRFID(RFID_num_X:23304850X, PER_UID:11817971)
+T2 EDIT (11): setRFID(RFID_num_X:13610017X, PER_UID:11822887)
+T2 EDIT (12): setRFID(RFID_num_X:13610549X, PER_UID:24969810)
+T2 EDIT (13): setRFID(RFID_num_X:25520471X, PER_UID:11814248)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-21 01:14:37 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-21 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202582713X, PER_UID:11822887)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202974423X, PER_UID:11814248)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202514708X, PER_UID:11820880)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202354105X, PER_UID:11816137)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090203302335X, PER_UID:11817833)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-21 02:07:22 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-21 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-21 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-22 00:37:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-22 00:37:04 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-22 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:25520208X, PER_UID:11818537)
+T2 EDIT (2): setRFID(RFID_num_X:12814093X, PER_UID:11819213)
+T2 EDIT (3): setRFID(RFID_num_X:25521069X, PER_UID:11825706)
+T2 EDIT (4): setRFID(RFID_num_X:23307238X, PER_UID:11821105)
+T2 EDIT (5): setRFID(RFID_num_X:14039002X, PER_UID:11817720)
+T2 EDIT (6): setRFID(RFID_num_X:25521977X, PER_UID:11819189)
+T2 EDIT (7): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (8): setRFID(RFID_num_X:23306691X, PER_UID:11824902)
+T2 EDIT (9): setRFID(RFID_num_X:13611132X, PER_UID:11814445)
+T2 EDIT (10): setRFID(RFID_num_X:25521609X, PER_UID:11818958)
+T2 EDIT (11): setRFID(RFID_num_X:12815136X, PER_UID:11818421)
+T2 EDIT (12): setRFID(RFID_num_X:25520652X, PER_UID:11822142)
+T2 EDIT (13): setRFID(RFID_num_X:25522182X, PER_UID:11826240)
+T2 EDIT (14): setRFID(RFID_num_X:12815136X, PER_UID:24977674)
+T2 EDIT (15): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (16): setRFID(RFID_num_X:13611137X, PER_UID:11821870)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-22 01:19:42 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-22 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090201381273X, PER_UID:11821870)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202781570X, PER_UID:11822142)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203293849X, PER_UID:11819213)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202405543X, PER_UID:11817720)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090201224481X, PER_UID:11824902)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090203068860X, PER_UID:11821105)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202687132X, PER_UID:11818421)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202393186X, PER_UID:11814445)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202918420X, PER_UID:11818537)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090202298427X, PER_UID:11818958)
+T2 EDIT (13): setCatcardID(CatcardID_X:6017090202743588X, PER_UID:11825706)
+T2 EDIT (14): setCatcardID(CatcardID_X:6017090203110969X, PER_UID:11826240)
+T2 EDIT (15): setCatcardID(CatcardID_X:6017090201878203X, PER_UID:24968999)
+T2 EDIT (16): setCatcardID(CatcardID_X:6017090202508890X, PER_UID:11819189)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-22 02:07:46 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-22 03:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-22 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-23 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-23 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-23 01:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:23307914X, PER_UID:11824642)
+T2 EDIT (2): setRFID(RFID_num_X:17124146X, PER_UID:24988516)
+T2 EDIT (3): setRFID(RFID_num_X:13610067X, PER_UID:24970118)
+T2 EDIT (4): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (5): setRFID(RFID_num_X:21104737X, PER_UID:11822113)
+T2 EDIT (6): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (7): setRFID(RFID_num_X:21104983X, PER_UID:11817566)
+T2 EDIT (8): setRFID(RFID_num_X:12814093X, PER_UID:24977788)
+T2 EDIT (9): setRFID(RFID_num_X:14037619X, PER_UID:11814453)
+T2 EDIT (10): setRFID(RFID_num_X:14035485X, PER_UID:24970022)
+T2 EDIT (11): setRFID(RFID_num_X:19105265X, PER_UID:11813926)
+T2 EDIT (12): setRFID(RFID_num_X:17124268X, PER_UID:11824174)
+T2 EDIT (13): setRFID(RFID_num_X:13610516X, PER_UID:24967131)
+T2 EDIT (14): setRFID(RFID_num_X:25520058X, PER_UID:11815040)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-23 01:07:44 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-23 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202957311X, PER_UID:24979749)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202340591X, PER_UID:11814453)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202334115X, PER_UID:11817566)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090203276885X, PER_UID:11815040)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090200384609X, PER_UID:11824174)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202041926X, PER_UID:11824642)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202683719X, PER_UID:11822113)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090201208393X, PER_UID:11813926)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-23 02:07:32 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-23 03:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-23 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-24 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-24 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-24 01:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-24 01:07:10 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-24 02:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090203140941X, PER_UID:5964244)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-24 02:07:09 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-24 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-24 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-25 00:37:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-25 00:37:05 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-25 01:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (2): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-25 01:07:10 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-25 02:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-25 02:07:13 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-25 03:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-25 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-26 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-26 00:37:08 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-26 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:21106179X, PER_UID:11824964)
+T2 EDIT (2): setRFID(RFID_num_X:23304433X, PER_UID:11824469)
+T2 EDIT (3): setRFID(RFID_num_X:13610935X, PER_UID:11819619)
+T2 EDIT (4): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (5): setRFID(RFID_num_X:19107236X, PER_UID:11826079)
+T2 EDIT (6): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (7): setRFID(RFID_num_X:25521225X, PER_UID:11822309)
+T2 EDIT (8): setRFID(RFID_num_X:25521496X, PER_UID:11820660)
+T2 EDIT (9): setRFID(RFID_num_X:13610954X, PER_UID:24990141)
+T2 EDIT (10): setRFID(RFID_num_X:12814319X, PER_UID:11816716)
+T2 EDIT (11): setRFID(RFID_num_X:25520213X, PER_UID:11824838)
+T2 EDIT (12): setRFID(RFID_num_X:25522042X, PER_UID:11823114)
+T2 EDIT (13): setRFID(RFID_num_X:25521015X, PER_UID:11819693)
+T2 EDIT (14): setRFID(RFID_num_X:14036924X, PER_UID:11819999)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-26 01:17:51 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-26 02:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202608443X, PER_UID:11824964)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090201769378X, PER_UID:11824469)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203117782X, PER_UID:11819693)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202126842X, PER_UID:11824838)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090203238661X, PER_UID:11819999)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202632740X, PER_UID:11826079)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090203062160X, PER_UID:11822309)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090203136741X, PER_UID:11820660)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202771035X, PER_UID:11823114)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090202084850X, PER_UID:11819619)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-26 02:07:34 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-26 03:07:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-26 03:07:03 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-07-27 00:37:02 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-07-27 00:37:04 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-07-27 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (2): setRFID(RFID_num_X:21104553X, PER_UID:11817579)
+T2 EDIT (3): setRFID(RFID_num_X:12815869X, PER_UID:11814651)
+T2 EDIT (4): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (5): setRFID(RFID_num_X:14035186X, PER_UID:11818802)
+T2 EDIT (6): setRFID(RFID_num_X:25521091X, PER_UID:11819751)
+T2 EDIT (7): setRFID(RFID_num_X:21107012X, PER_UID:11816305)
+T2 EDIT (8): setRFID(RFID_num_X:23307168X, PER_UID:11819604)
+T2 EDIT (9): setRFID(RFID_num_X:17124231X, PER_UID:11823940)
+T2 EDIT (10): setRFID(RFID_num_X:17124109X, PER_UID:11823890)
+T2 EDIT (11): setRFID(RFID_num_X:21104985X, PER_UID:11817471)
+T2 EDIT (12): setRFID(RFID_num_X:23305613X, PER_UID:11824979)
+T2 EDIT (13): setRFID(RFID_num_X:13611205X, PER_UID:11819840)
+T2 EDIT (14): setRFID(RFID_num_X:12814666X, PER_UID:11816266)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-07-27 01:16:22 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-07-27 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202866611X, PER_UID:11819751)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090201481339X, PER_UID:11823890)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202376553X, PER_UID:11824979)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202243001X, PER_UID:11816305)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202356399X, PER_UID:11819604)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202349485X, PER_UID:11818802)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202960364X, PER_UID:11817471)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090202823968X, PER_UID:11816266)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090200914884X, PER_UID:11823940)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090203038608X, PER_UID:11817579)
+T2 EDIT (13): setCatcardID(CatcardID_X:6017090203048334X, PER_UID:11819840)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-07-27 02:07:41 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-07-27 03:07:07 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-07-27 03:07:08 =========================
+
+
+=================== BEGIN Script: Q_Expired_Reserved_permits -- 2016-08-11 00:37:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_Expired_Reserved_permits, rows_min:0, rows_max:10000)
+
+=================== END Script: Q_Expired_Reserved_permits -- 2016-08-11 00:37:09 =========================
+
+
+=================== BEGIN Script: Q_RFID_EXPIRED -- 2016-08-11 01:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_RFID_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setRFID(RFID_num_X:12815781X, PER_UID:24992300)
+T2 EDIT (2): setRFID(RFID_num_X:12814474X, PER_UID:11822005)
+T2 EDIT (3): setRFID(RFID_num_X:25520159X, PER_UID:11821051)
+T2 EDIT (4): setRFID(RFID_num_X:25520293X, PER_UID:11819444)
+T2 EDIT (5): setRFID(RFID_num_X:12814305X, PER_UID:24977702)
+T2 EDIT (6): setRFID(RFID_num_X:13609279X, PER_UID:11817073)
+T2 EDIT (7): setRFID(RFID_num_X:23304508X, PER_UID:11816547)
+T2 EDIT (8): setRFID(RFID_num_X:21106166X, PER_UID:11819766)
+T2 EDIT (9): setRFID(RFID_num_X:17124134X, PER_UID:24988520)
+T2 EDIT (10): setRFID(RFID_num_X:25520293X, PER_UID:24970514)
+T2 EDIT (11): setRFID(RFID_num_X:12815549X, PER_UID:11822476)
+T2 EDIT (12): setRFID(RFID_num_X:13608729X, PER_UID:11822616)
+T2 EDIT (13): setRFID(RFID_num_X:13608578X, PER_UID:11819655)
+T2 EDIT (14): setRFID(RFID_num_X:12814305X, PER_UID:11818812)
+T2 EDIT (15): setRFID(RFID_num_X:23306155X, PER_UID:11819221)
+T2 EDIT (16): setRFID(RFID_num_X:21107420X, PER_UID:11822110)
+T2 EDIT (17): setRFID(RFID_num_X:25521910X, PER_UID:11814969)
+T2 EDIT (18): setRFID(RFID_num_X:13610112X, PER_UID:11815845)
+T2 EDIT (19): setRFID(RFID_num_X:25522259X, PER_UID:11823181)
+
+=================== END Script: Q_RFID_EXPIRED -- 2016-08-11 01:08:00 =========================
+
+
+=================== BEGIN Script: Q_CATCARD_EXPIRED -- 2016-08-11 02:07:01 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:Q_CATCARD_EXPIRED, rows_min:0, rows_max:10000)
+T2 EDIT (1): setCatcardID(CatcardID_X:6017090202841853X, PER_UID:11814969)
+T2 EDIT (2): setCatcardID(CatcardID_X:6017090202778741X, PER_UID:11822476)
+T2 EDIT (3): setCatcardID(CatcardID_X:6017090203245658X, PER_UID:11822110)
+T2 EDIT (4): setCatcardID(CatcardID_X:6017090202722012X, PER_UID:11817073)
+T2 EDIT (5): setCatcardID(CatcardID_X:6017090202961578X, PER_UID:11821051)
+T2 EDIT (6): setCatcardID(CatcardID_X:6017090202912613X, PER_UID:11816547)
+T2 EDIT (7): setCatcardID(CatcardID_X:6017090202684766X, PER_UID:11819766)
+T2 EDIT (8): setCatcardID(CatcardID_X:6017090202982509X, PER_UID:11819655)
+T2 EDIT (9): setCatcardID(CatcardID_X:6017090202945084X, PER_UID:24991731)
+T2 EDIT (10): setCatcardID(CatcardID_X:6017090202785423X, PER_UID:11819221)
+T2 EDIT (11): setCatcardID(CatcardID_X:6017090202550272X, PER_UID:11822616)
+T2 EDIT (12): setCatcardID(CatcardID_X:6017090202522966X, PER_UID:11822005)
+T2 EDIT (13): setCatcardID(CatcardID_X:6017090203214829X, PER_UID:11823181)
+T2 EDIT (14): setCatcardID(CatcardID_X:6017090203103709X, PER_UID:24991717)
+T2 EDIT (15): setCatcardID(CatcardID_X:6017090203338388X, PER_UID:11819444)
+T2 EDIT (16): setCatcardID(CatcardID_X:6017090202813498X, PER_UID:11815845)
+
+=================== END Script: Q_CATCARD_EXPIRED -- 2016-08-11 02:07:47 =========================
+
+
+=================== BEGIN Script: RFID_CATCARD_UPDATE -- 2016-08-11 03:07:06 =========================
+######### Using LIVE database.
+######### You are NOT in 'TEST_RUN' mode - this IS THE REAL THING!
+MAIN function call: runJob(query_name:RFID_CATCARD_UPDATE, rows_min:0, rows_max:10000)
+
+=================== END Script: RFID_CATCARD_UPDATE -- 2016-08-11 03:07:10 =========================
