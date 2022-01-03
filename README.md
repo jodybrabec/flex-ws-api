@@ -1,2 +1,1 @@
-# flex-ws
- t2 systems flex ws
+Utilizes web API of T2 Systems, flex ws.
