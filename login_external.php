@@ -211,42 +211,4 @@ if (@$new_cust_form || @$_GET['insert_new_cust']) {
 unset($valid_cust);
 //--------------- Made it thus far, GOOD TO GO ---------------------
 
-
-
-
-
-/****************************************************************************************
-//else if (@$_POST['login']) // @$_POST['login'] is for old ldapLogin login.    {
-//	//======================== OLD WAY Login Via LDAP ===================
-//	echoNow('<br />Please Wait...', true);
-//	$ldapResults = ldapLogin($_POST['login'], $_POST['password']);
-//	if (@$ldapResults['errCode']) {
-//		$errCode	= $ldapResults['errCode'];
-//		$error	= $ldapResults['error'];
-//	} elseif (@$ldapResults['emplid'][0]) {
-//		//---------------- LDAP login was successfull ---------------------------
-//		$_SESSION['eds_data'] = array();
-//		$_SESSION['eds_data']['emplid']	= $ldapResults['emplid'][0];
-//		$_SESSION['eds_data']['netid']		= $ldapResults['uid'][0];
-//		$_SESSION['eds_data']['dbkey']		= $ldapResults['dbkey'][0]; // unque UA id.
-//		//  $classificationStr could be "EmployeeStudent" too.
-//		$classificationStr = '';
-//		if ($ldapResults['activeemployee'][0] > 0) $classificationStr .= 'Employee'; // old SESSION['cuinfo']['pecid'] = 44;
-//		if ($ldapResults['activestudent'][0] > 0) $classificationStr .= 'Student'; // old SESSION['cuinfo']['pecid'] = 18;
-//		if (!$classificationStr) $classificationStr = 'No Classification'; // old SESSION['cuinfo']['pecid'] = 2;
-//		$_SESSION['eds_data']['class'] = $classificationStr; // same as $_SESSION['entity']['classificationStr']
-//		if (!$mysqli2) $mysqli2 = new database();
-//		$ent_cuinfo = new GetEntity('', $_SESSION['eds_data']['dbkey'], $_SESSION['eds_data']['emplid'], $_SESSION['eds_data']['netid'], $_SESSION['eds_data']['class']);
-//		$ent_cuinfo->setEntSession();
-//		if ($GLOBALS['DEBUG_DEBUG']) echo $ent_cuinfo;	}
-//	if (@$ldapResults['emplid'][0]) $goodWebauthLogin = $_SESSION['goodWebauthLogin'] = true;
-//	else $_SESSION['goodWebauthLogin'] = false;
-//	if ($GLOBALS['DEBUG_DEBUG']) {
-//		// echoed once in top.inc .php
-//		$_SESSION['eds_data_debug'] = "\n<pre><div style='padding:0; border:1px dashed #FCE094;'>
-//		<div onclick='showOrHide(\"eds_data_debug\");' style='padding:0; border:1px solid #FCE094;font-weight:bold; cursor:pointer; color:#999E9E;'>
-//		SESSION Ldap Login Return Data</div></div><div id='eds_data_debug' style='display:none;' ondblclick='showOrHide(\"eds_data_debug\");'>"
-//		. print_r($ldapResults,true)."</div></pre>\n";
-//	} }
- ********************************************************************************/
 ?>
