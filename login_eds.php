@@ -10,16 +10,15 @@
  * keywords: A username and password are being requested by https://eds.arizona.edu. The site says: "EDS authentication required"
  */
 
-//$searchFilter	= '(uaid=109106543384)'; // dbkey
-//$searchFilter	= '(emplid=16808753)';
+//$searchFilter	= '(uaid=***)'; // dbkey
+//$searchFilter	= '(emplid=***)';
 
-//$netid			= 'jbrent42'; // Can use wildcards, jbrabec
+//$netid	= 'jbre42'; // Can use wildcards, jbrabec
 //$searchFilter	= '(uid='.$netid.')';
 
-//$searchFilter	= '(emplid=03402650)';
+//$searchFilter	= '(emplid=***)';
 //$ldapDATA = searchLDAP($searchFilter);
 //if ($GLOBALS['DEBUG_DEBUG']) var_dump($ldapDATA);
-
 
 
 function searchLDAP($searchFilter)
@@ -34,7 +33,7 @@ function searchLDAP($searchFilter)
 	//	exitWithBottom('hey nowwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww');
 
 	$username	= 'parking-permits';
-	$bindPw		= 'gv0TxVGrtYJGg8VLo8omZ9Y48tHkpvN6'; // yBShXaENyEdMnL7XCzNb2G6yivbzKqNc
+	$bindPw		= '*********';
 
 	$bindPw		= stripslashes(str_replace('\\', '\\\\', $bindPw)); // the password allows backslashes but php screws them up
 	$username	= strtolower($username); // make netid lowercase.
@@ -140,29 +139,3 @@ function searchLDAP($searchFilter)
 	return $entryData;
 }
 
-
-
-//for ($i=0; $i<$entry["count"]; $i++) {
-//	if ($i==20)	break;
-//	$prop = 'eduPersonAffiliation';
-//	$vals = ldap_get_values($ldap, $entry, $prop);
-//	foreach($vals as $k => $v) {
-//		if ($GLOBALS['DEBUG_DEBUG']) echo $prop . ': ' . $k . ': ' . $v . "\n";
-//	}
-//}
-
-//$entry = ldap_first_entry($ldap, $sr);
-//if ($entry) {
-//	$prop = 'eduPersonAffiliation';
-//	$vals = ldap_get_values($ldap, $entry, $prop);
-//	foreach($vals as $k => $v) {
-//		echo $prop . ': ' . $k . ': ' . $v . "\n";
-//	}
-//	$prop = 'emplid';
-//	$vals = ldap_get_values($ldap, $entry, $prop);
-//	foreach($vals as $k => $v) {
-//		echo $prop . ': ' . $k . ': ' . $v . "\n";
-//	}
-//}
-
-//ldap_close($ldap);
